@@ -1,0 +1,37 @@
+.outerDiv {
+    width: 30vw;
+    margin: 0 auto;
+    border: 1px solid #637a91;
+    h3{
+        margin: 0px;
+        line-height: 55px;
+    }
+    .upper-container {
+        height:60px;
+        background-color: #637a91;
+        color: white;
+        font-weight: 700;
+    }
+    .form-container {
+        padding: 20px;
+        .form-group {
+            .spacing {
+                margin-top: 20px;
+                margin-bottom: 20px;   
+            }   
+
+        }
+        .terms {
+            font-size: 12px;
+            text-align: left;
+            color: #637a91;
+            .option {
+                color: #80bdff;
+                text-decoration: none;
+            }
+        }
+        
+    }
+    
+    
+}
